@@ -1,0 +1,8 @@
+﻿'Random2.exe': Loaded 'C:\Users\Student\Desktop\Matthew M\C++\Random2\Debug\Random2.exe', Symbols loaded.
+'Random2.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Random2.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Random2.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Random2.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'Random2.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+The thread 'Win32 Thread' (0x1474) has exited with code -1073741510 (0xc000013a).
+The program '[1640] Random2.exe: Native' has exited with code -1073741510 (0xc000013a).

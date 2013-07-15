@@ -1,0 +1,162 @@
+C++
+#include<iostream>
+#include<string>
+!!!using namespace std;!!!
+void main (){ double a;
+int b;
+char c;
+!!!std::!!!!string d;
+}{
+	int a;
+	cin >> a;
+	cout << a;
+ if( a < 1)
+    {
+        cout << "1- oh yeah" << endl;
+    }
+    else if( a < 2)
+    {
+        cout << "2 banana" << endl;
+    }
+    else if( a < 3)
+    {
+        cout << "3 coconut" << endl;
+    }
+    else if( a < 4)
+    {
+        cout << "4" << endl;
+    }
+    else if( a < 5)
+    {
+        cout << "5 yeah" << endl;
+    }
+    else if( a < 6)
+    {
+        cout << "6" << endl;
+    }
+    else
+    {
+        cout << "a is greater than 20" << endl;
+}break;
+
+double a=3.14;
+	int b=5;
+	char c='c';
+	string d="code";
+	double e=9.8;
+	int f=7;
+	char g='g';
+	string h="Computer";
+cout<<"Hello World!\n";
+cout<<"Hello World!"<<endl;
+
+
+
+text-cout<<"Hello World!"<<endl;
+
+
+
+
+
+int add(int a, int b, int c, int d)
+{
+    return a + b + c + d;
+}
+
+	
+
+
+int(a=1);
+int(b=2);
+int(c=3);
+
+
+multiply(odd number, c);
+	add(odd val, a);
+
+	divide(even value, 2);
+
+
+
+
+
+
+
+Collatz Conjecture if odd -3*val + 1
+if even - val/2
+
+
+(((((#include<iostream>
+#include<string>
+
+using namespace std;
+
+int add(int a, int b, int c, int d)
+{
+    return a + b + c + d;
+}
+void main()
+{
+	cout << add(19,121,132,148) << endl;
+	system("pause");
+}
+
+)))))
+
+
+
+
+
+
+Java
+import java.util.*;
+
+
+
+Text appears-System.out.println("")
+
+
+
+((((((((#include<iostream>
+#include<string>
+
+using namespace std;
+
+void main()
+{
+    cout << "Enter number:" << endl;
+    int d;
+    cin >> d;
+
+	while(d!=1)
+	{
+		if(d % 2 == 0)
+			d = d/2;
+	
+		else if (d % 2 == 1) 
+		{
+			d = 3*d + 1;
+		}
+	
+		cout << d << endl;
+	}
+	
+	
+	system("pause");
+}
+
+
+)))))))))
+
+
+
+
+
+
+
+
+
+
+
+
+

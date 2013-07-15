@@ -1,0 +1,74 @@
+Necessary start items  (Sometimes necessary (using namespace std;))
+#include <iostream>
+#include <string>
+
+void main()
+Simple Commands
+Loops a certain number of times				for(int i = 0; i< 10; i++)
+
+							 
+Also:
+							while( i < 10)
+   							 {
+   							     cout << i << endl;
+     							   i++;
+   							 }
+
+Pause code						system("pause");
+
+
+
+
+
+
+
+(fizzbuzz
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+
+
+void main()
+{
+	for(int i = 0; i< 99; i = i++)
+	{
+		
+		if (i%3==0)
+				{
+					cout << ("Fizz");
+				}
+		
+		if(i%5==0)
+				{
+					cout << ("Buzz");
+				}
+		
+	cout << i << endl; }
+	
+	
+	system("pause");
+})
+
+
+/*
+Truth Tables
+
+AND
+true and true -> true
+true and false -> false
+false and true -> false
+false and false -> false
+
+OR
+true or true -> true
+true or false -> true
+false or true --> true
+false or false -> false
+
+NOT
+NOT true -> false
+NOT false -> true
+
+*/

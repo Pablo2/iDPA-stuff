@@ -1,0 +1,27 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+void main()
+{
+	cout << ("Story text");
+	cout << ("1. Choice 1") << endl;
+	cout << ("2. Choice 2") << endl;
+
+	int selection
+		cin >> selection
+	
+	if (selection == 1)
+	{
+		cout << "Result one" << endl;
+	}
+	else if (selection == 2)
+	{
+		cout << "Result two" << << endl;
+	}
+	else
+	{ cout << "Action three" << endl;
+	system("pause");
+	}
+
+}

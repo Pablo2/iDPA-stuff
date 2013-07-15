@@ -1,0 +1,21 @@
+Create a figure that walks around when given command
+
+Bonus Goals:
+Have character go through a maze(Overhead view)
+Character can't walk through walls.
+Animations not neccesarry
+
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+void main()
+{
+
+
+
+
+
+}

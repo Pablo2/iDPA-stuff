@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: Hello Worlds, Configuration: Debug Win32 ------
+1>  theory.cpp
+1>theory.obj : error LNK2005: _main already defined in Code.obj
+1>C:\Users\Student\Desktop\Matthew M\C++\Hello Worlds\Debug\Hello Worlds.exe : fatal error LNK1169: one or more multiply defined symbols found
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

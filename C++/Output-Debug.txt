@@ -1,0 +1,11 @@
+﻿'Random.exe': Loaded 'C:\Users\Student\Desktop\Matthew M\C++\Random\Debug\Random.exe', Symbols loaded.
+'Random.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Random.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Random.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Random.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'Random.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'Random.exe': Loaded 'C:\Windows\SysWOW64\apphelp.dll', Cannot find or open the PDB file
+'Random.exe': Loaded 'ImageAtBase0x4a570000', Loading disabled by Include/Exclude setting.
+'Random.exe': Unloaded 'ImageAtBase0x4a570000'
+The thread 'Win32 Thread' (0xb80) has exited with code -1073741510 (0xc000013a).
+The program '[1312] Random.exe: Native' has exited with code -1073741510 (0xc000013a).

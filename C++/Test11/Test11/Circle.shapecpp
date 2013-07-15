@@ -1,0 +1,11 @@
+#include "Circle.h"
+
+
+sf::RenderWindow;
+{
+}
+
+
+Circle::~Circle(void)
+{
+}
